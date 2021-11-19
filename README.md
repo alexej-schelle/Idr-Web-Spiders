@@ -8,7 +8,7 @@ Simply use this line of Java Script Code : <br>
 
 <script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
 
-<br>
+<br><br>
 
 In order to use ESR Generator as HTML Microdata Optimisation, no further optimismation (such as HTML compression, etc.) 
 of your website is needed in principle.
