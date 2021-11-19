@@ -4,6 +4,10 @@ ESR Generator includes a W3C conformal personalised dataset for enhancement of s
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
 
+Simply use this line of Java Script Code : <br>
+
+<script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
+
 In order to use ESR Generator as HTML Microdata Optimisation, no further optimismation (such as HTML compression, etc.) 
 of your website is needed in principle.
 
@@ -23,13 +27,7 @@ With ESR Generator, you gain :
 
 - Minimization and prediction of risks through optimal data presentation.
 
-In order to use ESR generator, simply insert the following lines of code to the header section of your web page and ask for activation of your ESR Generator at support@krealix.de.
-
-ESR Geneartor Code : <br>
-
-<script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
-
-<p>
+In order to start ESR generator, simply insert the Java Script ESR Generator Code to the header section of your web page and ask for activation of your ESR Generator at support@krealix.de.
 
 Copyright 2021, 
 KREALIX.DE.
