@@ -1,6 +1,6 @@
 # esr-generator
 
-ESR Generator includes a W3C conformal enhancement of specific, logic, fuzzy and random keywords as charactersied by your web page content.
+ESR Generator includes a W3C conformal personalised dataset for enhancement of specific, logic, fuzzy and random keywords as charactersied by your web page content.
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
 
@@ -10,9 +10,7 @@ of your website is needed in principle.
 
 - Realistische und einzigartige Methoden, Modelle, Webseiten und Applikationen als Support für Unternehmensentwicklung und Entscheidungsfindung nach Ihren Vorgaben.
 
-
 - Ideales Suchmaschinen Ranking durch ein individuelles Data Mapping und Verständnis Ihres Unternehmens/Produkts mit Experten Know-How.
-
 
 - Kontrollierter Einfluss der Umgebung durch intelligente, wissenschaftlich orientierte Netzwerk- und Datenmodelle mit Coaching für eigenes Updating.
 	
