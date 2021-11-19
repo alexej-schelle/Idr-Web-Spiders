@@ -4,7 +4,7 @@ ESR Generator includes a W3C conformal personalised dataset for enhancement of s
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
 
-In order to use ESR Generator as HTML Microdata Optimisation, no further optismiation (such as HTML compression, etc.) 
+In order to use ESR Generator as HTML Microdata Optimisation, no further optimismation (such as HTML compression, etc.) 
 of your website is needed in principle.
 
 
