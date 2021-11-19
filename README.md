@@ -7,14 +7,22 @@ It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatib
 In order to use ESR Generator as HTML Microdata Optimisation, no further optimismation (such as HTML compression, etc.) 
 of your website is needed in principle.
 
+With ESR Generator, you gain : 
 
-- Realistische und einzigartige Methoden, Modelle, Webseiten und Applikationen als Support für Unternehmensentwicklung und Entscheidungsfindung nach Ihren Vorgaben.
+- A realistic and unique search engine informal data model for your websites and applications 
 
-- Ideales Suchmaschinen Ranking durch ein individuelles Data Mapping und Verständnis Ihres Unternehmens/Produkts mit Experten Know-How.
+- Enhancement of company development and decision-making according to your public specifications.
 
-- Kontrollierter Einfluss der Umgebung durch intelligente, wissenschaftlich orientierte Netzwerk- und Datenmodelle mit Coaching für eigenes Updating.
+- Ideal search engine results through individual data mapping and understanding of your company or product with expert know-how.
+
+- Controlled influence of the environment through intelligent, scientifically oriented network and data models with coaching for own updating.
 	
+- Consideration of machine function processes on a quantitative basis. 
 
-Berücksichtigung maschineller Funktionsabläufe auf quantitativer Basis Ausgezeichnete wissenschaftliche Methodenauswahl zur allg. Problemlösung
-Anpassung und Entwicklung intelligenter Code- und Datenmodelle Einzigartige Suchmaschinenergebnisse durch individuelle (Mikro) Datenstrukturen 
-Minimierung und Vorhersage von Risiken durch optimale Datendarstellung.
+- Unique search engine results through individual (micro) data structures.
+
+- Minimization and prediction of risks through optimal data presentation.
+
+In order to use ESR generator, simply insert the following lines of code to the header section of your web page and ask for activation of your ESR Generator at support@krealix.de.
+
+<script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
