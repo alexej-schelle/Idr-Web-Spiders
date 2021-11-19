@@ -25,7 +25,7 @@ With ESR Generator, you gain :
 
 In order to use ESR generator, simply insert the following lines of code to the header section of your web page and ask for activation of your ESR Generator at support@krealix.de.
 
-ESR Geneartor Code : 
+ESR Geneartor Code : <br>
 
 <script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
 
