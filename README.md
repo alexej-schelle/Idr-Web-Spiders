@@ -29,4 +29,6 @@ ESR Geneartor Code :
 
 <script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
 
+<br><br>
+
 Copyright 2021, KREALIX.DE.
