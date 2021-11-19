@@ -28,7 +28,3 @@ In order to use ESR generator, simply insert the following lines of code to the 
 ESR Geneartor Code : 
 
 <script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
-
-Copyright by Krealix.de, 2021.
-
-A. Schelle.
