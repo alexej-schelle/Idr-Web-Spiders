@@ -1,25 +1,22 @@
 # esr-generator
 
-ESR Generator includes a W3C conformal personalised dataset for enhancement of specific, logic, fuzzy and random keywords as charactersied by your web page content.
+IDR for Crawlers (Informal Dataset Representation) includes an individual W3C conformal personalised dataset for enhancement of specific, logic, fuzzy and random keywords as charactersied by your web page content.
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
 
-Simply use this line of Java Script Code : <br>
+Simply place this line of Java Script Code intoo the header section of your web content: <br>
 
 <script type="text/javascript" src="http://www.krealix.de/yourdomainname/esr_generator_krealix.js"></script>
 
 <p>
 
-In order to use ESR Generator as HTML Microdata Optimisation, no further optimismation (such as HTML compression, etc.) 
-of your website is needed in principle.
+With IDR for Crawlers, you gain : 
 
-With ESR Generator, you gain : 
-
-- A realistic and unique search engine informal data model for your websites and applications 
+- A realistic and unique search engine informal data model for your websites and applications. 
 
 - Enhancement of company development and decision-making according to your public specifications.
 
-- Ideal search engine results through individual data mapping and understanding of your company or product with expert know-how.
+- Ideal search engine results through individual data mapping and understanding of your company or product with expert Know-How.
 
 - Controlled influence of the environment through intelligent, scientifically oriented network and data models with coaching for own updating.
 	
@@ -29,7 +26,7 @@ With ESR Generator, you gain :
 
 - Minimization and prediction of risks through optimal data presentation.
 
-In order to start ESR generator, simply insert the Java Script ESR Generator Code to the header section of your web page and ask for activation of your ESR Generator at support@krealix.de.
+In order to start IDR for Crawlers, simply insert the Java Script Code for IDR for Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
 
 Copyright 2021, 
 KREALIX.DE.
