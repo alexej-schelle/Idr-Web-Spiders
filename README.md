@@ -1,4 +1,4 @@
-# esr-generator
+# IDR for Crawlers
 
 IDR for Crawlers (Informal Dataset Representation) includes an individual W3C conformal personalised dataset for enhancement of specific, logic, fuzzy and random keywords as charactersied by your web page content.
 
