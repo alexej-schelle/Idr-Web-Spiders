@@ -28,5 +28,7 @@ With IDR for Web Crawlers, you gain :
 
 In order to start IDR for Web Crawlers, simply insert the Java Script Code for IDR for Web Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
 
+For standard persons, IDR for Web Crawlers is free of charge. For enterprise purposes, a short-term and part-time contract (with possible extension to different tasks) is required for installation.
+	
 Copyright 2021, 
 KREALIX.DE.
