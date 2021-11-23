@@ -26,7 +26,7 @@ In order to start IDR for Web Crawlers, simply insert the following Java Script 
 
 <p>
 
-For natural persons, IDR for Web Crwalers developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
+For natural persons, IDR for Web Crawlers developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
 	
 Copyright 2021, 
 KREALIX.DE.
