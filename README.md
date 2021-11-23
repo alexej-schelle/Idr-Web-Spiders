@@ -4,7 +4,7 @@ IDR (Informal Dataset Representation) for Web Crawlers includes an individual W3
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
 
-Simply place this line of Java Script Code intoo the header section of your web content: <br>
+Simply place this line of Java Script Code into the header section of your web content: <br>
 
 <script type="text/javascript" src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"></script>
 
