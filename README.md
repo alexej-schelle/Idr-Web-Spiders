@@ -1,14 +1,8 @@
 # IDR for Web Crawlers
 
-IDR (Informal Dataset Representation) for Web Crawlers includes an individual W3C conformal personalised dataset for enhancement of specific, logic, fuzzy and random keywords as charactersied by your web page content.
+IDR (Informal Dataset Representation) for Web Crawlers includes an individual W3C conformal personalised dataset for enhancement of information represented by the content of your web page.
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
-
-Simply place this line of Java Script Code into the header section of your web content: <br>
-
-<script type="text/javascript" src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"></script>
-
-<p>
 
 With IDR for Web Crawlers, you gain : 
 
@@ -26,7 +20,11 @@ With IDR for Web Crawlers, you gain :
 
 - Minimization and prediction of risks through optimal data presentation.
 
-In order to start IDR for Web Crawlers, simply insert the Java Script Code for IDR for Web Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
+In order to start IDR for Web Crawlers, simply insert the following Java Script Code of IDR for Web Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
+
+<script type="text/javascript" src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"></script>
+
+<p>
 
 For natural persons, IDR for Web Crwalers developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
 	
