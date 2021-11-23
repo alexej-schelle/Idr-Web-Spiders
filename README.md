@@ -28,7 +28,7 @@ With IDR for Web Crawlers, you gain :
 
 In order to start IDR for Web Crawlers, simply insert the Java Script Code for IDR for Web Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
 
-For natural persons, IDR for Web Crwalers is free. For enterprises, a small amount of 99.00 Euro per year is charged.
+For natural persons, IDR for Web Crwalers developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
 	
 Copyright 2021, 
 KREALIX.DE.
