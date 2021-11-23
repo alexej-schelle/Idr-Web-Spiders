@@ -2,7 +2,7 @@
 
 IDR (Informal Dataset Representation) for Web Crawlers includes an individual W3C conformal personalised dataset for enhancement of information as represented by the content of your public web page.
 
-It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses Public Canonical Tags, Meta Viewports and HTTP Headers.
+It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses General Website Content, Public Canonical Tags, Meta Viewports and HTTP Headers.
 
 With IDR for Web Crawlers, you gain : 
 
