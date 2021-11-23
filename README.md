@@ -6,7 +6,7 @@ It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatib
 
 Simply place this line of Java Script Code intoo the header section of your web content: <br>
 
-<script type = "text/javascript" src = "http://www.krealix.de/yourdomainname/idr_web_crawlers.js"></script>
+<script type = "text/javascript" src = "www.krealix.de/yourdomainname/idr_web_crawlers.js"></script>
 
 <p>
 
