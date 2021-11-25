@@ -10,7 +10,7 @@ With IDR for Web Crawlers, you gain :
 
 - A generator for nice search engine results through individual data mapping and understanding of your company.
  
-- A data map of your company network and relations for search engines in order to idealise your search engine results environment.
+- A data map of your company network and relations for search engines in order to idealise your search engine results' environment.
  
 In order to start IDR for Web Crawlers, simply insert the following Java Script Code of IDR for Web Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
 
