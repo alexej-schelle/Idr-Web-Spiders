@@ -8,7 +8,7 @@ With IDR for Web Crawlers, you gain :
 
 - A realistic and unique informal data model for search engines spiders about the content of your websites and applications. 
 
-- A generator for nice search engine results through individual data mapping and understanding of your company or product with expert know-how.
+- A generator for nice search engine results through individual data mapping and understanding of your company.
  
 - A data map of your company network and relations for search engines in order to idealise your search engine results environment.
  
