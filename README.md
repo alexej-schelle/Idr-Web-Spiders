@@ -12,7 +12,7 @@ With IDR for Web Crawlers, you gain :
  
 - A data map of your company network and relations for search engines in order to idealise your search engine results' environment.
  
-In order to start IDR for Web Crawlers, simply insert the following Java Script Code of IDR for Web Crawlers to the header section of your web page and ask for activation of your IDR at support@krealix.de.
+In order to start IDR for Web Crawlers, simply insert the following Java Script Code of IDR for Web Crawlers to the header section of your web page and ask for development and activation of your IDR at support@krealix.de.
 
 <script type="text/javascript" src="<a href="http://www.krealix.de/yourdomainname/idr_web_crawlers.js">http://www.krealix.de/yourdomainname/idr_web_crawlers.js</a>"></script>
 
