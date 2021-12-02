@@ -1,10 +1,10 @@
-# IDR for Web Crawlers
+# IDR for Web Spiders
 
-IDR (Informal Dataset Representation) for Web Crawlers includes an individual W3C conformal personalised dataset for enhancement of information as represented by the content of your public web page.
+IDR (Informal Dataset Representation) for Web Spiders includes an individual W3C conformal personalised dataset for enhancement of information as represented by the content of your public web page.
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses public Website Content, Canonical Tags, Meta Viewports and HTTP Headers.
 
-With IDR for Web Crawlers, you gain : 
+With IDR for Web Spiders, you may gain : 
 
 - A realistic and unique informal data model for search engines spiders about the content of your websites and applications. 
 
@@ -12,13 +12,13 @@ With IDR for Web Crawlers, you gain :
  
 - A data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
  
-In order to start IDR for Web Crawlers, simply insert the following Java Script Code of IDR for Web Crawlers to the header section of your web page and ask for development and activation of your IDR at support@krealix.de.
+In order to start IDR for Web Spiders, simply insert the following Java Script Code of IDR for Web Spiders to the header section of your web page and ask for development and activation of your IDR at support@krealix.de.
 
 <script type="text/javascript" src="<a href="http://www.krealix.de/yourdomainname/idr_web_crawlers.js">http://www.krealix.de/yourdomainname/idr_web_crawlers.js</a>"></script>
 
 <p>
 
-For natural persons, IDR for Web Crawlers developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
+For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
 	
 Copyright 2021, 
 KREALIX.DE.
