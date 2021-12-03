@@ -12,12 +12,12 @@ With IDR for Web Spiders, you may gain :
  
 - A data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
  
-In order to start IDR for Web Spiders, simply insert the following Java Script Code of IDR for Web Spiders to the header section of your web page, erase the command line <!-- and ask for development and activation of your IDR at support@krealix.de.
-
-<!-- <include src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"> ... </include>
+In order to start IDR for Web Spiders, simply insert the following Java Script Code of IDR for Web Spiders to the header section of your web page and ask for development and activation of your IDR at support@krealix.de.
 
 <p>
-
+<include src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"> </include>
+<p>
+	
 For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
 	
 Copyright 2021, 
