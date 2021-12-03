@@ -14,7 +14,7 @@ With IDR for Web Spiders, you may gain :
  
 In order to start IDR for Web Spiders, simply insert the following Java Script Code of IDR for Web Spiders to the header section of your web page, erase the command line <!-- and ask for development and activation of your IDR at support@krealix.de.
 
-<!-- <include src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"></include>
+<!-- <include src="http://www.krealix.de/yourdomainname/idr_web_crawlers.js"> ... </include>
 
 <p>
 
