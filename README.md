@@ -15,7 +15,7 @@ With IDR for Web Spiders, you may gain :
 In order to start IDR for Web Spiders, simply insert the following Java Script Code of IDR for Web Spiders to the header section of your web page and ask for development and activation of your IDR at support@krealix.de.
 
 <p>
-<script src= &ldquo; http://www.krealix.de/yourdomainname/idr_web_crawlers.js &ldquo;> </script>
+<script src= &ldquo; http://www.krealix.de/yourdomainname/idr_web_crawlers.js&ldquo;> </script>
 <p>
 	
 For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, a small amount of 99.00 Euro per year is charged.
