@@ -22,3 +22,5 @@ For natural persons, IDR for Web Spiders developed by krealix.de is free. For en
 	
 Copyright 2021, 
 KREALIX.DE.
+	
+Person responsible : Dr. A. Schelle.
