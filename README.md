@@ -20,7 +20,4 @@ In order to start IDR for Web Spiders, simply insert the following Java Script C
 	
 For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, it is only available within the framework of a permanent (short-term) contract for website development (with a contract duration of at least one week).
 	
-Copyright 2021, 
-KREALIX.DE.
-	
-Person responsible : Dr. A. Schelle.
+Copyright 2021, KREALIX.DE. Person responsible : Dr. A. Schelle.
