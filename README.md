@@ -6,7 +6,7 @@ It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatib
 
 With IDR for Web Spiders, you may gain : 
 
-- A realistic and unique informal data model for search engines about the content of your websites and applications. 
+- A realistic and unique informal data model for search engines about the content of your websites and saas applications. 
 
 - A generator for nice search engine results through individual data mapping and understanding of your company.
  
