@@ -6,11 +6,11 @@ It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatib
 
 Using IDR for Web Spiders, you may prfit from
 
-- a realistic and unique informal data model for search engines about the content of your websites and saas applications. 
+- A realistic and unique informal data model for search engines about the content of your websites and saas applications. 
 
-- a generator for nice search engine results through individual data mapping and understanding of your company.
+- A generator for nice search engine results through individual data mapping and understanding of your company.
  
-- a data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
+- A data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
  
 In order to get access to IDR for Web Spiders, simply ask for development and activation of your IDR at support@krealix.de, or follow the link at the present github repository : 
 
