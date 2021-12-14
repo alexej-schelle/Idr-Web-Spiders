@@ -4,7 +4,7 @@ IDR (Informal Dataset Representation) for Web Spiders is a technique for represe
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses public Website Content, Canonical Tags, Meta Viewports and HTTP Headers.
 
-Using IDR for Web Spiders, you may prfit from
+Using IDR for Web Spiders, you may profit from
 
 - A realistic and unique informal data model for search engines about the content of your websites and saas applications. 
 
