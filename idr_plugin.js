@@ -48,7 +48,7 @@
         "target":["yourdomain",
         {
             "@type":"EntryPoint",
-            "urlTemplate":"yourdomain/#about",
+            "urlTemplate":"yourdomain",
             "actionApplication": {
                 "@type": "...", 
                 "name": "...", 
@@ -59,7 +59,7 @@
         "yourdomain/",
         {
             "@type":"EntryPoint",
-            "urlTemplate":"yourdomain/",
+            "urlTemplate":"yourdomain",
             "actionApplication": {
                 "@type": "SoftwareApplication", 
                 "name": "...", 
@@ -70,7 +70,7 @@
         "yourdomain/",
         {
             "@type":"EntryPoint",
-            "urlTemplate":"yourdomain/",
+            "urlTemplate":"yourdomain",
             "actionApplication": {
                 "@type": "SoftwareApplication", 
                 "name": "...", 
@@ -149,8 +149,8 @@
 {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "url": "http://www.your-company-site.com",
-  "logo": "http://www.example.com/logo.png",
+  "url": "",
+  "logo": "",
   "contactPoint": [{
     "@type": "ContactPoint",
     "telephone": "...",
@@ -176,7 +176,7 @@
   "@context": "http://schema.org",
   "@type": "Person",
   "name": "your name",
-  "url": "http://www.your-site.com",
+  "url": "",
   "relatedlink": [
     "http://www.facebook.com/your-profile",
     "http://instagram.com/yourProfile",
@@ -249,8 +249,8 @@
       "streetAddress": "...",
       "addressLocality": "...",
       "postalCode": "...",
-      "addressRegion": "CA",
-      "addressCountry": "US"
+      "addressRegion": "",
+      "addressCountry": ""
     }
   },
   "image": [
@@ -264,7 +264,7 @@
     "@type": "Offer",
     "url": "...",
     "price": "...",
-    "priceCurrency": "USD",
+    "priceCurrency": "",
     "availability": "...",
     "validFrom": "..."
   },
@@ -318,7 +318,7 @@
     },
     "publisher": {
       "@type": "Organization",
-      "name": "Denver Post",
+      "name": "",
       "relatedlink": "..."
     },
     "datePublished": "...",
@@ -348,7 +348,7 @@
     "..."
    ],
   "@id": "...",
-  "name": "Dave's Steak House",
+  "name": "",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "...",
@@ -409,7 +409,7 @@
 {
   "@context": "http://schema.org/",
   "@type": "Product",
-  "name": "Executive Anvil",
+  "name": "",
   "image": [
     "...",
     "...",
@@ -445,10 +445,10 @@
   "description": "...",
   "thumbnailUrl": "...",
   "uploadDate": "...",
-  "duration": "PT1M54S",
+  "duration": "",
   "publisher": {
     "@type": "Organization",
-    "name": "Google Nederland",
+    "name": "",
     "logo": {
       "@type": "ImageObject",
       "url": "...",
@@ -462,53 +462,8 @@
 }
 </script>
 
+// Here comes main new part developed by krealix.de : 
 
-// Öffentliches Netzwerk :
-
-// RECURSIV NETWORK for Virtual Environment Optimization of EXISTING NETWORK (LINKS): 
-// RECURSIV DATA (Referenzen zu allen eindeutigen und/oder teilhabenden Partnern)
-
-// Linked Partner 1
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "NewsArticle",
-  "headline": "...",
-  "alternativeHeadline": "...",
-  "dateline": "...",
-  "image": ["..."],
-  "description": "...",
-  "articleBody": "...",
-  "relatedTo" : "..."
-}
-</script>
-
-
-// GRAPH STRUCTURE for Search Content & Ranking Optimization of EXISTING NETWORKS:
-// GRAPH DATA (Virtueller Backlink zu allen Nachbarn mit Links)
-
-// Linked Partner 1 with keyword "1" <--
-
-<script type="application/ld+json">
-{ 
-  "@context": "http://schema.org",
-  "@type": "NewsArticle",
-  "headline": "...",
-  "alternativeHeadline": "...",
-  "dateline": "...",
-  "image": [
-    "..."],
-  "description": "...",
-  "articleBody": "...",
-  "potentialAction": { 
-    "@type": "SearchAction", 
-    "target": "...", 
-    "query-input": "..." }, 
-    "relatedlink" : "..." 
-    }
-</script>
-  
 // INDEX STRUCTURE for NETWORK MAPPING. Note : replace relatedLink by sameAs, if source and aim are partners.
 
 // Partner 1 with keyword "1" -->
