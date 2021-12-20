@@ -143,36 +143,6 @@
 }
 </script>
 
-// Geschäftszweige:
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
-    "name": "...",
-    "item": "..."
-  },{
-    "@type": "ListItem",
-    "position": 2,
-    "name": "...",
-    "item": "..."
-  },{
-    "@type": "ListItem",
-    "position": 3,
-    "name": "...",
-    "item": "..."
-  },{
-    "@type": "ListItem",
-    "position": 4,
-    "name": "...",
-    "item": "..."
-  }]
-}
-</script>
-
 // Geschäftsführer :
 
     <script type="application/ld+json">
