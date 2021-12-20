@@ -462,7 +462,7 @@
 }
 </script>
 
-// Here comes main new part developed by krealix.de : 
+// Here comes main new part developed by krealix.de (Recommended : minimal 10 to maximal 100 different canonical keywords): 
 
 // INDEX STRUCTURE for NETWORK MAPPING. Note : replace relatedLink by sameAs, if source and aim are partners.
 
