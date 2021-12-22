@@ -18,7 +18,7 @@ In order to get access to IDR for Web Spiders, simply ask for development and ac
 <script src=".../yourfilepath/idr_plugin.js"></script>
 <p>
 	
-For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, workout within the framework of a (short-term or freelancer) contract for website development by krealix.de (with a contract duration of at least one week, i.e. at least 10 working hours) is appreciated.
+For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, workout within the framework of a (short-term or freelancer) contract for website development by krealix.de (with a contract duration of at least one week, i. e. at least 10 working hours) is appreciated.
 	
 Copyright 2021, KREALIX.DE. 
 	
