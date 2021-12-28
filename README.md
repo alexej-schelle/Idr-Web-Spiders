@@ -12,16 +12,14 @@ Using IDR for Web Spiders, you may profit from
  
 - A data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
  
-In order to get access to IDR for Web Spiders, simply ask for development and activation of your IDR at support@krealix.de, and put the following link into the header section of your web content : 
+In order to activate IDR for Web Spiders, simply ask for development and activation of your IDR at support@krealix.de, and put the following link into the header section of your web content : 
 
 <p>
-<script src=".../yourfilepath/idr_plugin.js"></script>
+<script src="http://www.krealix.de/yourdomainname/idr_plugin.js"></script>
 <p>
 	
-For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, workout within the framework of a (short-term or freelancer) contract for website development by krealix.de (with a contract duration of at least one week, i. e. at least 10 working hours) is acknowledged, if the file idr_plugin.js from github repository is used.
-	
-Furthermore, the author(s) of krealix.de may provide further insights and knowledge on how to monetize your personal and website world wide web data.
-	
+For natural persons, IDR for Web Spiders developed by krealix.de is free. For enterprises, workout within the framework of a (short-term or freelancer) contract for website development by krealix.de (with a contract duration of at least one week, i. e. at least 10 working hours) is acknowledged.
+		
 Copyright 2021, KREALIX.DE. 
 	
 Person responsible : Dr. A. Schelle.
