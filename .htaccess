@@ -1,4 +1,0 @@
-AuthName "Jupyter Notebook - IU Internationale Hochschule"
-AuthType Basic
-AuthUserFile /is/htdocs/wp13435265_MKXD0XA82J/www/iu-notebook/.htpasswd
-require valid-user
