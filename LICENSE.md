@@ -1,14 +1,3 @@
-#####################################################################################################################################################
-
-
-For natural persons, IDR for Web Spiders developed by krealix.de grated by MIT License. 
-
-For enterprises, the workout within the framework of a permanent (short-term) contract 
-for website development (with a contract duration of at least one week) is appreciated.
-
-
-#####################################################################################################################################################
-
 MIT License
 
 This software version (developed in 2016/2017) corresponds to publication of Fluctuation and Noise Letters, Vol. 16, No. 01, 1750009 (2017).
