@@ -1,6 +1,4 @@
 MIT License
-
-This software version (developed in 2016/2017) corresponds to publication of Fluctuation and Noise Letters, Vol. 16, No. 01, 1750009 (2017).
  
 Copyright (c) 2017, Dr. A. Schelle, Sudetenstr. 76, 87600 Kaufbeuren (Neugablonz)
 
