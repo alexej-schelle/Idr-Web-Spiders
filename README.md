@@ -1,6 +1,6 @@
 # IDR for Web Spiders
 
-IDR (Informal Dataset Representation) for Web Spiders is a technique for representing informal data in a compact form, which respectively includes an individual W3C conformal personalised JSON dataset representing the content of your public web page, in order to improve the quality of information sent to standard search engines.
+IDR (Informal Dataset Representation) for Web Spiders is a technique for representing informal data in a compact form, which respectively includes an individual W3C conformal personalized JSON dataset representing the content of your public web page, in order to improve the quality of information sent to standard search engines.
 
 It works for Websites, Mobile Compatible Websites and Standalone Mobile Compatible Websites and uses public Website Content, Canonical Tags, Meta Viewports and HTTP Headers.
 
