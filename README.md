@@ -12,7 +12,7 @@ Using IDR for Web Spiders, you may profit from
  
 - A data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
  
-In order to activate IDR for Web Spiders, simply ask for development and activation of your IDR at support@krealix.de, and put the following link into the header section of your web content : 
+In order to activate IDR for Web Spiders, simply ask for development and activation of your IDR at alexej.schelle@gmail.com, and put the following link into the header section of your web content : 
 
 <p>
 	<script src=&quot <a href="http://www.krealix.de/idr-collaboration/">http://www.krealix.de/yourdomainname/idr_plugin.js</a> &quot></script>
