@@ -10,7 +10,7 @@ Using IDR for Web Spiders, you may profit from
 
 - A generator for nice search engine results through individual data mapping and understanding of your company.
  
-- A data map of your company network and relations for search engines in order to idealise your search engine results' network environment.
+- A data map of your company network and relations for search engines in order to idealize your search engine results' network environment.
  
 In order to activate IDR for Web Spiders, simply ask for development and activation of your IDR at alexej.schelle@gmail.com, and put the following link into the header section of your web content : 
 
